@@ -8,4 +8,5 @@ Unity->Window->Package Manager -> "+" DropDown -> Add package from git URL
 ## How To
 
 Use the MaterialPropertyBlockController component.
+
 Then set the Renderer for that component.
