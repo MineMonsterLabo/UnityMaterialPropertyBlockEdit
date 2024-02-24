@@ -1,0 +1,2 @@
+# UnityMaterialPropertyBlockEdit
+unityのマテリアルを複製せずにプロパティを操作できるやつ
