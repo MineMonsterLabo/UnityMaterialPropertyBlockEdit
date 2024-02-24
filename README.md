@@ -1,5 +1,13 @@
 # UnityMaterialPropertyBlockEdit
-unityのマテリアルを複製せずにプロパティを操作できるやつ
+unityのマテリアルを複製せずにプロパティを操作できるやつ。
+
+これを使えば、Unity組み込みのマテリアルだってプロパティを上書きして編集できます。
+
+そう、、MaterialPropertyBlockならね！
+
+Unity 2022からは、アニメーションでプロパティを操作することもできる。
+
+(Unity 2022からSerialized Referenceがアニメーションで参照できるようになったからね)
 
 ## Install
 Unity->Window->Package Manager -> "+" DropDown -> Add package from git URL
